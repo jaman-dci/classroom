@@ -1,4 +1,4 @@
-# About myself
+tania
 
 This is Tania. My nickname is Aknet. I enjoy the learning of being a programmer and i want to gain deep knowledge in it.
 
@@ -17,3 +17,9 @@ Heat the frying pan, add some oil and fry for a couple minutes each side of the 
 ---
 ### A ReadMe file is a standard place for instructions or documentation that you want to share with people about a repo.
 
+# classroom
+
+Enthusiasm: a feeling of energetic interest in a particular subject or activity and an eagerness to be involved in it.
+
+That should work now. 
+Heilinshan
